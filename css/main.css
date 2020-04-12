@@ -15,3 +15,11 @@ ul{
 display: flex;
 align-items: center;
 }
+li{
+	margin-right: 20px;
+	list-style: none;
+}
+
+li:last-chlid{
+	margin-right: 0px;
+}
